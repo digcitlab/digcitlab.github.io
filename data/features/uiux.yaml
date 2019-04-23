@@ -1,0 +1,4 @@
+weight: 6
+name: "Infraestructures"
+icon: "fa fa-desktop"
+description: "Cal ser sobirans en molts aspectes de la nostra vida digital, però pocs tan importants com el fet de disposar d'infraestructures pròpies, on es minimitzi la dependència de tercers (per altra part inevitable). Cal desplegar pel territori tanta infraestructura com sigui possible, cal descentralitzar-la el màxim possible. Cal eliminar nodes-hub, que facin la xarxa vulnerable."

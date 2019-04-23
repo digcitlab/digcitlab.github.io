@@ -1,14 +1,62 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Laboratori Ciutadania Digital</title>
+    <title>Universal</title>
     <link>localhost:1313/</link>
-    <description>Recent content on Laboratori Ciutadania Digital</description>
+    <description>Recent content on Universal</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ca</language>
+    <lastBuildDate>Tue, 23 Apr 2019 14:22:18 +0200</lastBuildDate>
     
 	<atom:link href="localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Comunicació lliure, respectuosa i descentralitzada</title>
+      <link>localhost:1313/blog/2019/04/23/comunicacio1/</link>
+      <pubDate>Tue, 23 Apr 2019 14:22:18 +0200</pubDate>
+      
+      <guid>localhost:1313/blog/2019/04/23/comunicacio1/</guid>
+      <description>Internet és comunicació i els amos de les grans xarxes socials ho saben. No en va han creat unes eines que fan el preuat regal de la comunicació a les persones, a canvi de poder espiar els seus hàbits i tenir les seves dades. Però aquestes eines, a més de no ser respectuoses amb la privacitat, permeten una comunicació molt retallada, centrada en els límits del &amp;ldquo;m&amp;rsquo;agrada&amp;rdquo; o &amp;ldquo;no m&amp;rsquo;agrada&amp;rdquo; i de la bombolla on no veig mai opinions contràries a les meves, sense la possibilitat d&amp;rsquo;un debat clarificador.</description>
+    </item>
+    
+    <item>
+      <title>Laboratori de Ciutadania Digital</title>
+      <link>localhost:1313/blog/2019/04/23/lcdpresentacio/</link>
+      <pubDate>Tue, 23 Apr 2019 14:04:13 +0200</pubDate>
+      
+      <guid>localhost:1313/blog/2019/04/23/lcdpresentacio/</guid>
+      <description>Presentació de l&amp;rsquo;LCD El Laboratori de Ciutadania Digital (LCD) és una nova unitat de la Fundació i2cat dedicada a fer recerca i innovació sobre la sobirania digital ciutadana, els drets i deures digitals que deriven d’aquesta, les noves formes d’acció democràtica digital i les tecnologies cíviques que comporten.
+EL LCD al mateix temps vol col.laborar amb el govern de Catalunya en ajudar a l’impuls d’una ciutadania digital, i a la construcció d’un govern i una administració digitals per ajudar Catalunya a esdevenir un país digital pioner a escala global.</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>localhost:1313/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>localhost:1313/contact/</guid>
+      <description>Tens alguna pregunta? Si vols saber més coses del LCD, o vols posar-te en contacte amb nosaltres per alguna raó, fes servir aquest formulari:</description>
+    </item>
+    
+    <item>
+      <title>FAQ</title>
+      <link>localhost:1313/faq/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>localhost:1313/faq/</guid>
+      <description>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.
+1. WHAT TO DO IF I HAVE STILL NOT RECEIVED THE ORDER? Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante.</description>
+    </item>
+    
+    <item>
+      <title>Qui Som?</title>
+      <link>localhost:1313/quisom/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>localhost:1313/quisom/</guid>
+      <description>Artur Serra Jordi Colobrans Mercé Molist Mercè Molist Ferrer, llicenciada en Periodisme per la Universitat Autònoma de Barcelona. Autora del llibre &amp;ldquo;Hackstory.es. La historia nunca contada del underground hacker en la Península Ibérica&amp;rdquo; i coautora de &amp;ldquo;Cibercrimen&amp;rdquo;, amb el catedràtic de la Universitat Politècnica de Catalunya Manel Medina. Especialista en informar sobre seguretat informàtica i cultura hacker, he escrit per als principals mitjans de comunicació espanyols, entre ells &amp;ldquo;El País&amp;rdquo;, &amp;ldquo;El Mundo&amp;rdquo; o &amp;ldquo;La Vanguardia&amp;rdquo;.</description>
+    </item>
     
   </channel>
 </rss>

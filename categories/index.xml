@@ -1,14 +1,32 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories on Laboratori Ciutadania Digital</title>
+    <title>Categories on Universal</title>
     <link>localhost:1313/categories/</link>
-    <description>Recent content in Categories on Laboratori Ciutadania Digital</description>
+    <description>Recent content in Categories on Universal</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ca</language>
     
 	<atom:link href="localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Comunicació</title>
+      <link>localhost:1313/categories/comunicaci%C3%B3/</link>
+      <pubDate>Tue, 23 Apr 2019 14:22:18 +0200</pubDate>
+      
+      <guid>localhost:1313/categories/comunicaci%C3%B3/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lcd</title>
+      <link>localhost:1313/categories/lcd/</link>
+      <pubDate>Tue, 23 Apr 2019 14:22:18 +0200</pubDate>
+      
+      <guid>localhost:1313/categories/lcd/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>

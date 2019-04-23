@@ -1,0 +1,34 @@
+---
+title: "Laboratori de Ciutadania Digital"
+date: 2019-04-23T14:04:13+02:00
+draft: false
+tags: ["LCD", "descentralització", "ética", "comunicació", "egovernança"]
+categories: ["LCD"]
+banner: "img/lcd/logolcd.png"
+author: "Laboratori Ciutadania Digital"
+---
+
+## Presentació de l'LCD
+
+El Laboratori de Ciutadania Digital (LCD) és una nova unitat de la Fundació i2cat dedicada a fer recerca i innovació sobre la sobirania digital ciutadana, els drets i deures digitals que deriven d’aquesta, les noves formes d’acció democràtica digital i les tecnologies cíviques que comporten.
+
+EL LCD al mateix temps vol col.laborar amb el govern de Catalunya en ajudar a l’impuls d’una ciutadania digital, i a la construcció d’un govern i una administració digitals per ajudar Catalunya a esdevenir un país digital pioner a escala global.
+
+A l’era digital ha arribat el moment en què els ciutadans han de prendre la paraula. Ja hem vist que la tecnologia digital s’ha quedat a mig camí en el seu procés transformador. Ha connectat la societat actual pero no ha pogut transformar-la. Els pioners i emprenedors tecnològics han obert el camí d’una miríada de noves tecnologies pero no han pogut transformar la societat.  Els ciutadans hem cregut que es podia deixar la tecnologia conservant les mateixes institucions, els mateixos tipus d’empreses, d’Estats, d’hàbits d’una societat industrial a la què ens havíem acostumat. I el cert és que aquesta mateixa inèrcia social es la que està ara revertint el potencial transformador de les tecnologies digitals com Internet. Ara estem al mig d’una forta corrent vers una societat hipercontrolada i hipervigilada però a diferència del 1984, som nosaltres mateixos els que amb les nostres pròpies dades l’estem construïnt o deixant que ens la construeixen.
+
+Fins ara hem pensat que érem simples usuaris de la tecnologia. Ara cada vegada més hem arribat a la conclusió que ja no podem només ser usuaris, que  hem de ser els agents d’aquesta nova tecnologia. Si volem encara defensar aquell vell principi que diu que el poder prové del poble, els ciutadans ara hem de ser sobirans digitals. El ciutadà que dóna, conscient o inconscientment, les seves dades, idees, coneixements a Internet es un actor tant important  en el mon digital com l’enginyer que dissenya l’algoritme que utilitza aquestes mateixes dades d’aquest ciutadà i elabora el seu perfil polític. La tecnologia digital la fem els humans, tots nosaltres, i, per tant, tots som responsables d’aquest món artificial que estem construim. Ens hem d’apoderar de la tecnologia, capacitar-nos tecnológicament para poder ser sobirans digitals.
+
+Entenem per ciutadania digital una ciutadania apoderada i capaç d’ imaginar i decidir en quin tipus de societat digital vol viure, amb quins drets i deures, amb qui tipus d’autogovern, a quin tipus d’ educación, de sanitat, de justicia, en resum, amb quin tipus de nou contracte social digital, un nou contracte entre tots nosaltres i entre nosaltres i les tecnologies que generem i tota la natura que ens envolta. La nova sobirania ciutadana sera sobirania digital o no serà.
+
+ El repte fonamental ara està a les nostres mans. Podem augmentar aquest poder aprenent a dissenyar el nou món digital, o simplement podem deixar-nos anar i que d’altres ens construeixen les eines i les estructures on tots viurem. Si agafem la primera via podem intentar construir un nou món més d’acord amb les nostres preferències i valors. Si agafem la segona, ens podem trobar vivint en un món que no sigui el què volem. 
+ 
+¿Com aconseguir una sobirania digital ciutadana? El primer que necessitem és establir quins són els nous drets i deures que volem tenir a l’era digital. Els codis digitals son a la vegada codis ètics,  socials i viceversa. Les tecnologies digitals ens obliguen a pensar i a comportar-nos d’una determinada forma. Ara comprenem millor que la innovació tecnològica és a la vegada innovació social, econòmica, política, ètica. Una innovació tecnológica no és neutra, comporta un tipus de valors, de protocols d’actuació, fins i tot de biaixos culturalment determinats. Per això l’era digital està començant a ser una era de grans debats ètics i polítics, molt allunyada del “món feliç” de Huxley.   L’era tecnològica és una era de possibilitats i per tant de tria. En resum, una gran era de llibertats.
+
+Els Ciutadans Digitals, els defensors de la nova sobirania, són els ciutadans apoderats amb coneixements i instruments del món digital. Son els ciutadans que poden triar.  No son només usuaris de tecnologies, son també els seus dissenyadors  i productors. Per això han adquirit esforçant-se les competències adients. No es podran defensar els drets digitals sense el deure de protegir-los i augmentar-los i això es fa amb capacitació. Si volem ser lliures a l’era digital hem de saber defensar digitalment les nostres llibertats. Sense aquestes capacitats digitals ens podem trobar vivint  en una societat tecnològica amb llibertats vigilades per qui sí sap com dissenyar aquests sistemes.
+
+El Laboratori de Ciutadania Digital d’i2cat és un instrument per elaborar aquest nou paradigma de la sobirania ciutadana digital, basada en nous drets i deures digitals, en noves institucions polítiques experimentals, en nous coneixements i habilitats digitals oberts a tothom. Sorgit d’un centre de recerca digital com és la Fundació i2cat, el LCD es el resultat d’un exercici de responsabilitat social digital. Els tecnòlegs som responsables de la tecnologia que estem dissenyant i volem compartir aquesta capacitat de disseny digital responsable amb tothom. Però a la vegada entenem que hem d’aprendre a dissenyar també no només màquines sinó noves institucions  socials, polítiques, econòmiques, nous valors i codis de conducta. Aquesta és la nova feina del Laboratori de Ciutadania Digital.
+
+El  LCD es una eina per ajudar els ciutadans i ciutadanes de Catalunya i de qualsevol nació a co-crear l’auto-govern del seu país i d’ells mateixos com a darrera font de sobirania a l’era digital. En resum, és un instrument per generar una recerca i innovació sobre el tipus de societat digital que cada ciutadà vulgui. Entrem en una era d’una ciutadania digital innovadora i responsable. Tenim dret a cultivar la nostra creativitat, el disseny i la innovació com un nou dret universal, i a la vegada tenim el deure, la responsabilitat de fer-ho. Entrem en una era on realment els “sapiens” som responsables envers els nostres congèneres, envers les nostres màquines intel.ligents i envers el conjunt de la vida del nostre planeta. Si no ho fem, si pensem que és millor deixar-ho córrer i que altres ho facin per nosaltres, ens podem trobar davant un “món feliç” on les nostres vides no es diferenciaran gaire dels episodis de Black Mirror. I el cert és que també tenim dret a triar aquesta opció. 
+
+
+
