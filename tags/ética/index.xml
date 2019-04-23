@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Ética on Universal</title>
-    <link>localhost:1313/tags/%C3%A9tica/</link>
-    <description>Recent content in Ética on Universal</description>
+    <title>Ética on Laboratori Ciutadania Digital</title>
+    <link>/tags/%C3%A9tica/</link>
+    <description>Recent content in Ética on Laboratori Ciutadania Digital</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ca</language>
     <lastBuildDate>Tue, 23 Apr 2019 14:04:13 +0200</lastBuildDate>
     
-	<atom:link href="localhost:1313/tags/%C3%A9tica/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/tags/%C3%A9tica/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Laboratori de Ciutadania Digital</title>
-      <link>localhost:1313/blog/2019/04/23/lcdpresentacio/</link>
+      <link>/blog/2019/04/23/lcdpresentacio/</link>
       <pubDate>Tue, 23 Apr 2019 14:04:13 +0200</pubDate>
       
-      <guid>localhost:1313/blog/2019/04/23/lcdpresentacio/</guid>
+      <guid>/blog/2019/04/23/lcdpresentacio/</guid>
       <description>Presentació de l&amp;rsquo;LCD El Laboratori de Ciutadania Digital (LCD) és una nova unitat de la Fundació i2cat dedicada a fer recerca i innovació sobre la sobirania digital ciutadana, els drets i deures digitals que deriven d’aquesta, les noves formes d’acció democràtica digital i les tecnologies cíviques que comporten.
 EL LCD al mateix temps vol col.laborar amb el govern de Catalunya en ajudar a l’impuls d’una ciutadania digital, i a la construcció d’un govern i una administració digitals per ajudar Catalunya a esdevenir un país digital pioner a escala global.</description>
     </item>
