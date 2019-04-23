@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Comunicació on Laboratori Ciutadania Digital</title>
-    <link>/tags/comunicaci%C3%B3/</link>
+    <link>https://digcitlab.github.io/tags/comunicaci%C3%B3/</link>
     <description>Recent content in Comunicació on Laboratori Ciutadania Digital</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ca</language>
     <lastBuildDate>Tue, 23 Apr 2019 14:22:18 +0200</lastBuildDate>
     
-	<atom:link href="/tags/comunicaci%C3%B3/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://digcitlab.github.io/tags/comunicaci%C3%B3/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Comunicació lliure, respectuosa i descentralitzada</title>
-      <link>/blog/2019/04/23/comunicacio1/</link>
+      <link>https://digcitlab.github.io/blog/2019/04/23/comunicacio1/</link>
       <pubDate>Tue, 23 Apr 2019 14:22:18 +0200</pubDate>
       
-      <guid>/blog/2019/04/23/comunicacio1/</guid>
+      <guid>https://digcitlab.github.io/blog/2019/04/23/comunicacio1/</guid>
       <description>Internet és comunicació i els amos de les grans xarxes socials ho saben. No en va han creat unes eines que fan el preuat regal de la comunicació a les persones, a canvi de poder espiar els seus hàbits i tenir les seves dades. Però aquestes eines, a més de no ser respectuoses amb la privacitat, permeten una comunicació molt retallada, centrada en els límits del &amp;ldquo;m&amp;rsquo;agrada&amp;rdquo; o &amp;ldquo;no m&amp;rsquo;agrada&amp;rdquo; i de la bombolla on no veig mai opinions contràries a les meves, sense la possibilitat d&amp;rsquo;un debat clarificador.</description>
     </item>
     
     <item>
       <title>Laboratori de Ciutadania Digital</title>
-      <link>/blog/2019/04/23/lcdpresentacio/</link>
+      <link>https://digcitlab.github.io/blog/2019/04/23/lcdpresentacio/</link>
       <pubDate>Tue, 23 Apr 2019 14:04:13 +0200</pubDate>
       
-      <guid>/blog/2019/04/23/lcdpresentacio/</guid>
+      <guid>https://digcitlab.github.io/blog/2019/04/23/lcdpresentacio/</guid>
       <description>Presentació de l&amp;rsquo;LCD El Laboratori de Ciutadania Digital (LCD) és una nova unitat de la Fundació i2cat dedicada a fer recerca i innovació sobre la sobirania digital ciutadana, els drets i deures digitals que deriven d’aquesta, les noves formes d’acció democràtica digital i les tecnologies cíviques que comporten.
 EL LCD al mateix temps vol col.laborar amb el govern de Catalunya en ajudar a l’impuls d’una ciutadania digital, i a la construcció d’un govern i una administració digitals per ajudar Catalunya a esdevenir un país digital pioner a escala global.</description>
     </item>

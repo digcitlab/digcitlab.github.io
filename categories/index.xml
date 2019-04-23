@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Laboratori Ciutadania Digital</title>
-    <link>/categories/</link>
+    <link>https://digcitlab.github.io/categories/</link>
     <description>Recent content in Categories on Laboratori Ciutadania Digital</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ca</language>
     
-	<atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://digcitlab.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Comunicació</title>
-      <link>/categories/comunicaci%C3%B3/</link>
+      <link>https://digcitlab.github.io/categories/comunicaci%C3%B3/</link>
       <pubDate>Tue, 23 Apr 2019 14:22:18 +0200</pubDate>
       
-      <guid>/categories/comunicaci%C3%B3/</guid>
+      <guid>https://digcitlab.github.io/categories/comunicaci%C3%B3/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Lcd</title>
-      <link>/categories/lcd/</link>
+      <link>https://digcitlab.github.io/categories/lcd/</link>
       <pubDate>Tue, 23 Apr 2019 14:22:18 +0200</pubDate>
       
-      <guid>/categories/lcd/</guid>
+      <guid>https://digcitlab.github.io/categories/lcd/</guid>
       <description></description>
     </item>
     
