@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Comunicació on Laboratori Ciutadania Digital</title>
-    <link>https://digcitlab.github.io/categories/comunicaci%C3%B3/</link>
+    <link>/categories/comunicaci%C3%B3/</link>
     <description>Recent content in Comunicació on Laboratori Ciutadania Digital</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ca</language>
     <lastBuildDate>Tue, 23 Apr 2019 14:22:18 +0200</lastBuildDate>
     
-	<atom:link href="https://digcitlab.github.io/categories/comunicaci%C3%B3/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/categories/comunicaci%C3%B3/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Comunicació lliure, respectuosa i descentralitzada</title>
-      <link>https://digcitlab.github.io/blog/2019/04/23/comunicacio1/</link>
+      <link>/blog/2019/04/23/comunicacio1/</link>
       <pubDate>Tue, 23 Apr 2019 14:22:18 +0200</pubDate>
       
-      <guid>https://digcitlab.github.io/blog/2019/04/23/comunicacio1/</guid>
+      <guid>/blog/2019/04/23/comunicacio1/</guid>
       <description>Internet és comunicació i els amos de les grans xarxes socials ho saben. No en va han creat unes eines que fan el preuat regal de la comunicació a les persones, a canvi de poder espiar els seus hàbits i tenir les seves dades. Però aquestes eines, a més de no ser respectuoses amb la privacitat, permeten una comunicació molt retallada, centrada en els límits del &amp;ldquo;m&amp;rsquo;agrada&amp;rdquo; o &amp;ldquo;no m&amp;rsquo;agrada&amp;rdquo; i de la bombolla on no veig mai opinions contràries a les meves, sense la possibilitat d&amp;rsquo;un debat clarificador.</description>
     </item>
     

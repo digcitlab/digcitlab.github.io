@@ -2,57 +2,57 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Laboratori Ciutadania Digital</title>
-    <link>https://digcitlab.github.io/tags/</link>
+    <link>/tags/</link>
     <description>Recent content in Tags on Laboratori Ciutadania Digital</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ca</language>
     <lastBuildDate>Tue, 23 Apr 2019 14:22:18 +0200</lastBuildDate>
     
-	<atom:link href="https://digcitlab.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Comunicació</title>
-      <link>https://digcitlab.github.io/tags/comunicaci%C3%B3/</link>
+      <link>/tags/comunicaci%C3%B3/</link>
       <pubDate>Tue, 23 Apr 2019 14:22:18 +0200</pubDate>
       
-      <guid>https://digcitlab.github.io/tags/comunicaci%C3%B3/</guid>
+      <guid>/tags/comunicaci%C3%B3/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Descentralització</title>
-      <link>https://digcitlab.github.io/tags/descentralitzaci%C3%B3/</link>
-      <pubDate>Tue, 23 Apr 2019 14:22:18 +0200</pubDate>
+      <link>/tags/descentralitzaci%C3%B3/</link>
+      <pubDate>Wed, 24 Apr 2019 21:21:57 +0200</pubDate>
       
-      <guid>https://digcitlab.github.io/tags/descentralitzaci%C3%B3/</guid>
+      <guid>/tags/descentralitzaci%C3%B3/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Egovernança</title>
-      <link>https://digcitlab.github.io/tags/egovernan%C3%A7a/</link>
+      <link>/tags/egovernan%C3%A7a/</link>
       <pubDate>Tue, 23 Apr 2019 14:04:13 +0200</pubDate>
       
-      <guid>https://digcitlab.github.io/tags/egovernan%C3%A7a/</guid>
+      <guid>/tags/egovernan%C3%A7a/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Lcd</title>
-      <link>https://digcitlab.github.io/tags/lcd/</link>
-      <pubDate>Tue, 23 Apr 2019 14:22:18 +0200</pubDate>
+      <link>/tags/lcd/</link>
+      <pubDate>Wed, 24 Apr 2019 21:21:57 +0200</pubDate>
       
-      <guid>https://digcitlab.github.io/tags/lcd/</guid>
+      <guid>/tags/lcd/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Ética</title>
-      <link>https://digcitlab.github.io/tags/%C3%A9tica/</link>
+      <link>/tags/%C3%A9tica/</link>
       <pubDate>Tue, 23 Apr 2019 14:04:13 +0200</pubDate>
       
-      <guid>https://digcitlab.github.io/tags/%C3%A9tica/</guid>
+      <guid>/tags/%C3%A9tica/</guid>
       <description></description>
     </item>
     

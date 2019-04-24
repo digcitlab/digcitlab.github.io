@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Descentralització on Laboratori Ciutadania Digital</title>
+    <link>/categories/descentralitzaci%C3%B3/</link>
+    <description>Recent content in Descentralització on Laboratori Ciutadania Digital</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ca</language>
+    <lastBuildDate>Wed, 24 Apr 2019 21:21:57 +0200</lastBuildDate>
+    
+	<atom:link href="/categories/descentralitzaci%C3%B3/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Descentralitzant la xarxa que va nèixer descentralitzada</title>
+      <link>/blog/2019/04/24/descentralitzacio1/</link>
+      <pubDate>Wed, 24 Apr 2019 21:21:57 +0200</pubDate>
+      
+      <guid>/blog/2019/04/24/descentralitzacio1/</guid>
+      <description>Descentralitzant la xarxa que va nèixer descentralitzada La descentralització de la xarxa va ser un punt de partida, va ser un criteri de disseny a l’hora de construir una xarxa que havia de poder resistir bombardejos en centres estratègics, tot mantenint-se funcional com a eina que possibilitava la comunicació dins un país presumptament invadit per forces enemigues. Oficialment l’any 1983 Internet neix en adoptar ARPANET el protocol TCP/IP permetent que, tècnicament, ARPANET esdevingués una xarxa de xarxes.</description>
+    </item>
+    
+  </channel>
+</rss>
