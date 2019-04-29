@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Cultura on Laboratori Ciutadania Digital</title>
+    <link>/tags/cultura/</link>
+    <description>Recent content in Cultura on Laboratori Ciutadania Digital</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ca</language>
+    <lastBuildDate>Mon, 29 Apr 2019 14:54:03 +0200</lastBuildDate>
+    
+	<atom:link href="/tags/cultura/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>La Cultura Digital</title>
+      <link>/blog/2019/04/29/culturadigital1/</link>
+      <pubDate>Mon, 29 Apr 2019 14:54:03 +0200</pubDate>
+      
+      <guid>/blog/2019/04/29/culturadigital1/</guid>
+      <description>Una cultura és un conjunt de normes, valors i creences, de maneres de dir, de fer, de tenir, de pensar, de comunicar, de sentir i d’estar característiques d’una determinada comunitat. La cultura permet a les persones interpretar les seves experiències dins d’una estructura social determinada. Anomenem cultura digital a la cultura que s’ha anat desenvolupant dins del context de la revolució digital i de la relació amb les seves tecnologies. La societat digital crea la seva cultura digital de la mateixa manera que la societat industrial va desenvolupar la seva pròpia cultura industrial per donar sentit els canvis que es van produir en passar d’una societat agrícola a una societat industrial.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -3,6 +3,21 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>/blog/2019/04/29/mastodon1/</loc>
+    <lastmod>2019-04-29T15:12:15+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/2019/04/29/ciutadadigital1/</loc>
+    <lastmod>2019-04-29T15:03:59+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/2019/04/29/culturadigital1/</loc>
+    <lastmod>2019-04-29T14:54:03+02:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/blog/2019/04/24/descentralitzacio1/</loc>
     <lastmod>2019-04-24T21:21:57+02:00</lastmod>
   </url>
@@ -19,7 +34,7 @@
   
   <url>
     <loc>/blog/</loc>
-    <lastmod>2019-04-24T21:21:57+02:00</lastmod>
+    <lastmod>2019-04-29T15:12:15+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -29,14 +44,32 @@
   </url>
   
   <url>
+    <loc>/categories/ciutadania-digital/</loc>
+    <lastmod>2019-04-29T15:03:59+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/ciutad%C3%A0/</loc>
+    <lastmod>2019-04-29T15:03:59+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/categories/ciutad%C3%A0-digital/</loc>
+    <lastmod>2019-04-29T15:03:59+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/tags/comunicaci%C3%B3/</loc>
-    <lastmod>2019-04-23T14:22:18+02:00</lastmod>
+    <lastmod>2019-04-29T15:12:15+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/categories/comunicaci%C3%B3/</loc>
-    <lastmod>2019-04-23T14:22:18+02:00</lastmod>
+    <lastmod>2019-04-29T15:12:15+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -45,14 +78,42 @@
   </url>
   
   <url>
+    <loc>/tags/cultura/</loc>
+    <lastmod>2019-04-29T14:54:03+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/categories/cultura-digital/</loc>
+    <lastmod>2019-04-29T14:54:03+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/democracy/</loc>
+  </url>
+  
+  <url>
     <loc>/tags/descentralitzaci%C3%B3/</loc>
-    <lastmod>2019-04-24T21:21:57+02:00</lastmod>
+    <lastmod>2019-04-29T15:12:15+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/categories/descentralitzaci%C3%B3/</loc>
     <lastmod>2019-04-24T21:21:57+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/digital/</loc>
+    <lastmod>2019-04-29T15:03:59+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/digitalitzat/</loc>
+    <lastmod>2019-04-29T15:03:59+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -64,20 +125,24 @@
   
   <url>
     <loc>/</loc>
-    <lastmod>2019-04-24T21:21:57+02:00</lastmod>
+    <lastmod>2019-04-29T15:12:15+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/tags/lcd/</loc>
-    <lastmod>2019-04-24T21:21:57+02:00</lastmod>
+    <lastmod>2019-04-29T15:12:15+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/categories/lcd/</loc>
-    <lastmod>2019-04-23T14:22:18+02:00</lastmod>
+    <lastmod>2019-04-29T15:12:15+02:00</lastmod>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/policy/</loc>
   </url>
   
   <url>
@@ -86,7 +151,7 @@
   
   <url>
     <loc>/tags/</loc>
-    <lastmod>2019-04-23T14:22:18+02:00</lastmod>
+    <lastmod>2019-04-29T15:03:59+02:00</lastmod>
     <priority>0</priority>
   </url>
   

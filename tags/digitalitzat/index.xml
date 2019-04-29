@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Digitalitzat on Laboratori Ciutadania Digital</title>
+    <link>/tags/digitalitzat/</link>
+    <description>Recent content in Digitalitzat on Laboratori Ciutadania Digital</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ca</language>
+    <lastBuildDate>Mon, 29 Apr 2019 15:03:59 +0200</lastBuildDate>
+    
+	<atom:link href="/tags/digitalitzat/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Ciutadans digitalitzats i ciutadans digitals</title>
+      <link>/blog/2019/04/29/ciutadadigital1/</link>
+      <pubDate>Mon, 29 Apr 2019 15:03:59 +0200</pubDate>
+      
+      <guid>/blog/2019/04/29/ciutadadigital1/</guid>
+      <description>Ciutadans digitalitzats. Hi ha una certa confusió entre digital i digitalitzat. No és el mateix un ciutadà digitalitzat que un ciutadà digital. Un ciutadà digitalitzat veu les infotecnologies com una evolució. Un ciutadà digital, les veu com una evolució.
+El ciutadà digitalitzat és aquell que usa les infotecnologies però encara les veu com una eina que s’ha incorporat a la seva vida i que, essencialment, serveixen per fer allò que ja feia però d’una manera més ràpida, còmoda o eficient.</description>
+    </item>
+    
+  </channel>
+</rss>

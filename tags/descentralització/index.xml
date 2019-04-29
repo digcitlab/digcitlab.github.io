@@ -6,10 +6,20 @@
     <description>Recent content in Descentralització on Laboratori Ciutadania Digital</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ca</language>
-    <lastBuildDate>Wed, 24 Apr 2019 21:21:57 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 29 Apr 2019 15:12:15 +0200</lastBuildDate>
     
 	<atom:link href="/tags/descentralitzaci%C3%B3/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Mastodon, el Twitter lliure, té més de 2 milions d&#39;usuaris</title>
+      <link>/blog/2019/04/29/mastodon1/</link>
+      <pubDate>Mon, 29 Apr 2019 15:12:15 +0200</pubDate>
+      
+      <guid>/blog/2019/04/29/mastodon1/</guid>
+      <description>La revolució de les xarxes socials descentralitzades avança sense pressa però sense pausa, creant cada vegada més serveis semblants als que ja tenim, com Twitter, Instagram o Youtube, però construïts amb programari lliure, descentralitzats i gestionats pels propis usuaris. És una resposta planetària a les empreses àvides de dades personals.
+Mastodon és conegut com el Twitter lliure per la seva estètica i funcionament molt semblants als d&amp;rsquo;aquesta xarxa social. Va néixer el 2016 i ja té dos milions de persones registrades, the-federation.</description>
+    </item>
     
     <item>
       <title>Descentralitzant la xarxa que va nèixer descentralitzada</title>
@@ -17,7 +27,7 @@
       <pubDate>Wed, 24 Apr 2019 21:21:57 +0200</pubDate>
       
       <guid>/blog/2019/04/24/descentralitzacio1/</guid>
-      <description>Descentralitzant la xarxa que va nèixer descentralitzada La descentralització de la xarxa va ser un punt de partida, va ser un criteri de disseny a l’hora de construir una xarxa que havia de poder resistir bombardejos en centres estratègics, tot mantenint-se funcional com a eina que possibilitava la comunicació dins un país presumptament invadit per forces enemigues. Oficialment l’any 1983 Internet neix en adoptar ARPANET el protocol TCP/IP permetent que, tècnicament, ARPANET esdevingués una xarxa de xarxes.</description>
+      <description>La descentralització de la xarxa va ser un punt de partida, va ser un criteri de disseny a l’hora de construir una xarxa que havia de poder resistir bombardejos en centres estratègics, tot mantenint-se funcional com a eina que possibilitava la comunicació dins un país presumptament invadit per forces enemigues. Oficialment l’any 1983 Internet neix en adoptar ARPANET el protocol TCP/IP permetent que, tècnicament, ARPANET esdevingués una xarxa de xarxes.</description>
     </item>
     
     <item>
@@ -30,12 +40,12 @@
     </item>
     
     <item>
-      <title>Laboratori de Ciutadania Digital</title>
+      <title>Laboratori de Ciutadania Digital: Presentació</title>
       <link>/blog/2019/04/23/lcdpresentacio/</link>
       <pubDate>Tue, 23 Apr 2019 14:04:13 +0200</pubDate>
       
       <guid>/blog/2019/04/23/lcdpresentacio/</guid>
-      <description>Presentació de l&amp;rsquo;LCD El Laboratori de Ciutadania Digital (LCD) és una nova unitat de la Fundació i2cat dedicada a fer recerca i innovació sobre la sobirania digital ciutadana, els drets i deures digitals que deriven d&amp;rsquo;aquesta, les noves formes d&amp;rsquo;acció democràtica digital i les tecnologies cíviques que comporten.
+      <description>El Laboratori de Ciutadania Digital (LCD) és una nova unitat de la Fundació i2cat dedicada a fer recerca i innovació sobre la sobirania digital ciutadana, els drets i deures digitals que deriven d&amp;rsquo;aquesta, les noves formes d&amp;rsquo;acció democràtica digital i les tecnologies cíviques que comporten.
 EL LCD al mateix temps vol col.laborar amb el govern de Catalunya en ajudar a l&amp;rsquo;impuls d&amp;rsquo;una ciutadania digital, i a la construcció d&amp;rsquo;un govern i una administració digitals per ajudar Catalunya a esdevenir un país digital pioner a escala global.</description>
     </item>
     
